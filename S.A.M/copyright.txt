@@ -1,0 +1,15 @@
+===========================================================================
+COPYRIGHT NOTICE
+===========================================================================
+
+Project Title : S.A.M - Secure Auth Monitor
+Author        : Muhammad Salman Jawed
+Degree        : BS Digital Forensics and Cybersecurity (BSDFCS)
+Year          : 2026
+
+Copyright (c) 2026 Muhammad Salman Jawed. All Rights Reserved.
+
+This software and associated documentation files are the property of
+Muhammad Salman Jawed. Developed exclusively for academic coursework,
+cybersecurity research, defensive training, and educational evaluation.
+===========================================================================

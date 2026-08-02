@@ -1,0 +1,48 @@
+========================================================
+TIMESTAMP        : 2026-08-02 16:22:29
+MASKED PASSWORD  : P**********!
+STRENGTH RATING  : MODERATE
+COMPLEXITY SCORE : 42 / 100
+ENTROPY          : 78.66 bits
+LENGTH           : 12 characters
+CHAR BREAKDOWN   : Upper=1 | Lower=7 | Digits=3 | Symbols=1
+DICTIONARY MATCH : NO
+PATTERNS FOUND   : YES
+RECOMMENDATIONS  :
+  - Avoid embeding common words or dictionary sub-phrases into your password.
+  - Remove sequential patterns (e.g. '123', 'abc', 'qwerty') as automated tools guess them first.
+========================================================
+
+========================================================
+TIMESTAMP        : 2026-08-02 17:10:48
+MASKED PASSWORD  : 1********0
+STRENGTH RATING  : WEAK
+COMPLEXITY SCORE : 0 / 100
+ENTROPY          : 33.22 bits
+LENGTH           : 10 characters
+CHAR BREAKDOWN   : Upper=0 | Lower=0 | Digits=10 | Symbols=0
+DICTIONARY MATCH : NO
+PATTERNS FOUND   : YES
+RECOMMENDATIONS  :
+  - Increase length: Aim for at least 12 to 16 characters for robust protection.
+  - Add uppercase letters (A-Z) to increase character pool size.
+  - Add lowercase letters (a-z) to diversify character set.
+  - Include special symbols (!@#$%^&*) to guard against dictionary attacks.
+  - Avoid embeding common words or dictionary sub-phrases into your password.
+  - Remove sequential patterns (e.g. '123', 'abc', 'qwerty') as automated tools guess them first.
+========================================================
+
+========================================================
+TIMESTAMP        : 2026-08-02 20:52:16
+MASKED PASSWORD  : E***************^
+STRENGTH RATING  : VERY STRONG
+COMPLEXITY SCORE : 98 / 100
+ENTROPY          : 111.43 bits
+LENGTH           : 17 characters
+CHAR BREAKDOWN   : Upper=1 | Lower=8 | Digits=4 | Symbols=4
+DICTIONARY MATCH : NO
+PATTERNS FOUND   : NO
+RECOMMENDATIONS  :
+  - Excellent password design! Ensure you use a unique password for each online service.
+========================================================
+
