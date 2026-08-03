@@ -2,10 +2,10 @@
 
 # S.A.M — Secure Auth Monitor
 
-![C++11](https://img.shields.io/badge/C%2B%2B-11-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-2D3748.svg?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Credential%20Auditing-red.svg?style=for-the-badge)
+![C++11](https://img.shields.io/badge/C%2B%2B-11-24292e.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-00599C.svg?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-24292e.svg?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Credential%20Auditing-00599C.svg?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-2ea44f.svg?style=for-the-badge)
 
 <pre>
