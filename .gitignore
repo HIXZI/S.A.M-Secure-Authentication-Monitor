@@ -1,1 +1,16 @@
+# Compiled Executables & Binaries
+*.exe
+*.o
+*.obj
+*.out
 
+# Dev-C++ / IDE Temporary Build Files
+*.layout
+*.win
+*.bck
+*.depend
+
+# OS / Temporary Files
+.ds_store
+thumbs.db
+*.tmp
