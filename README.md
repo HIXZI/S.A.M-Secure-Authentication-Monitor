@@ -5,16 +5,16 @@
 </div>
 
 [![C++11](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-4CAF50?logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Build](https://img.shields.io/badge/Build-Passing-5CB85C?logo=github-actions&logoColor=white)](#)
+[![Terminal UI](https://img.shields.io/badge/UI-24--Bit%20ANSI-E83E8C?logo=windows-terminal&logoColor=white)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-2B5B84?logo=linux&logoColor=white)](#)
 [![Security](https://img.shields.io/badge/Security-Credential%20Auditing-D9534F?logo=shield&logoColor=white)](#)
-[![Build](https://img.shields.io/badge/Build-Passing-5CB85C?logo=github-actions&logoColor=white)](#)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-8A2BE2?logo=lock&logoColor=white)](#)
 [![Entropy Math](https://img.shields.io/badge/Entropy-Shannon%20Log2-00B4D8?logo=buffer&logoColor=white)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-RockYou%20Wordlist-F0A500?logo=databricks&logoColor=white)](#)
-[![Terminal UI](https://img.shields.io/badge/UI-24--Bit%20ANSI-E83E8C?logo=windows-terminal&logoColor=white)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-4C1D95?logo=git&logoColor=white)](#)
 [![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20External-008080?logo=logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-4CAF50?logo=open-source-initiative&logoColor=white)](LICENSE)
 
 <div align="center">
 
