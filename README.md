@@ -1,6 +1,6 @@
 <div align="center">
 
-# S.A.M — Secure Auth Monitor
+# S.A.M - Secure Auth Monitor
 
 ![C++11](https://img.shields.io/badge/C%2B%2B-11-E6E6FA.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-FFDAB9.svg?style=for-the-badge)
@@ -146,7 +146,7 @@ S.A.M/
 
 ## 🧑‍💻 Author & Project Metadata
 
-- **Author**: HIXZI
+- **Author**: Muhammad Salman Jawed
 - **Dicipline**: Digital Forensics and Cybersecurity 
 - **Project**: S.A.M - Secure Auth Monitor
 - **Version**: `v1.0.4` | Build `2026.08.02-RELEASE`
