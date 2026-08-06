@@ -1,4 +1,4 @@
-# S.A.M - Secure Auth Monitor
+## S.A.M - Secure Auth Monitor
 
 [![C++11](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Build](https://img.shields.io/badge/Build-Passing-5CB85C?logo=github-actions&logoColor=white)](#)
